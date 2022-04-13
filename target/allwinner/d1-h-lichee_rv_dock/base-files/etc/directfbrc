@@ -1,0 +1,6 @@
+disable-module=joystick 
+disable-module=cle266 
+disable-module=cyber5k 
+export SDL_DIRECTFB_X11_CHECK=0
+export SDL_DIRECTFB_YUV_DIRECT=1
+export SDL_DIRECTFB_WM=1
